@@ -5,9 +5,9 @@ On impact, a 2D fracture pattern is projected and clipped on the panel surface, 
 
 Compared to heavy physics-fracture workflows, this package keeps full artistic control over break style while remaining lightweight enough for gameplay-heavy and mobile-oriented projects.
 
-## Video
-[![Gameplay demo](https://img.youtube.com/vi/d-GVbH1iRUU/maxresdefault.jpg)](https://www.youtube.com/watch?v=d-GVbH1iRUU)
-▶️ **Watch the gameplay demo on YouTube**
+## Demo
+[![Window Fracture demo](Documentation/youtube-video.gif)](https://www.youtube.com/watch?v=d-GVbH1iRUU)
+▶️ **Click the demo to watch the full video on YouTube**
 
 ## Features
 - Hand-crafted fracture patterns with random rotation for high visual variety from a small pattern set.
