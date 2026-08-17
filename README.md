@@ -7,6 +7,7 @@ Compared to heavy physics-fracture workflows, this package keeps full artistic c
 
 ## Demo
 [![Window Fracture demo](Documentation/youtube-video.gif)](https://www.youtube.com/watch?v=d-GVbH1iRUU)
+
 ▶️ **Click the demo to watch the full video on YouTube**
 
 ## Features
